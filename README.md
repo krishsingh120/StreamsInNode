@@ -1,6 +1,6 @@
 # Streams in Node
 
-### Topic cover
+### Topics to learn
 
 ---
 
